@@ -1,0 +1,8 @@
+agent-framework-core>=1.26.0
+agent-framework-openai
+agent-framework-orchestrations
+python-dotenv
+opentelemetry-sdk
+pandas
+pytest
+pytest-asyncio

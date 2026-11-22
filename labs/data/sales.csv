@@ -1,0 +1,13 @@
+month,region,product,units,revenue,cost
+2026-01,North,Cloud Suite,120,180000,99000
+2026-01,South,Cloud Suite,95,142500,81700
+2026-01,North,AI Copilot,60,150000,72000
+2026-01,South,AI Copilot,40,100000,51000
+2026-02,North,Cloud Suite,132,198000,105600
+2026-02,South,Cloud Suite,88,132000,79200
+2026-02,North,AI Copilot,75,187500,86250
+2026-02,South,AI Copilot,52,130000,62400
+2026-03,North,Cloud Suite,140,210000,109200
+2026-03,South,Cloud Suite,81,121500,76950
+2026-03,North,AI Copilot,96,240000,105600
+2026-03,South,AI Copilot,70,175000,80500
